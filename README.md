@@ -3,13 +3,11 @@
 
 <p align="center">
   
-- 🚀 I’m currently working on **MyStupidBug**
+- 🚀 I’m currently working on **StupidBug**
 
-- 🚀 I’m currently working on **ExoWonder**
+- 🚀 I’m currently working on **Refresh**
 
-- 🚀 I’m currently working on **5%**
-
-- 👩🏼‍💻 All of my projects will soon be available at [em-powered.xyz](em-powered.xyz)
+- 👩🏼‍💻 Launching 6 startups in 6 months. Follow the journey: www.em-powered.xyz
 
 - 📪 Get in touch! **emilie.lockey@gmail.com**
 
