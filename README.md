@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Emilie 🙋🏼‍♀️</h1>
-<h3 align="center">A passionate developer & entrepreneur from London/Paris</h3>
+<h3 align="center">A passionate entrepreneur from London/Paris</h3>
 
 <p align="center">
   
