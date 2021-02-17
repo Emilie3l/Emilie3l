@@ -3,9 +3,11 @@
 
 <p align="center">
   
-- 🚀 I’m currently working on **StupidBug**
+- 🚀 I’m currently working on **Little Miss Tech**
 
 - 🚀 I’m currently working on **Refresh**
+
+- 🚀 I’m currently working on **ZING**
 
 - 👩🏼‍💻 Launching 6 startups in 6 months. Follow the journey: www.em-powered.xyz
 
