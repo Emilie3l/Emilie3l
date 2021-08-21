@@ -3,13 +3,9 @@
 
 <p align="center">
   
-- 🚀 I’m currently working on **Little Miss Tech**
+- 🚀 I’m currently working on **Hot Gal Summer**
 
-- 🚀 I’m currently working on **Refresh**
-
-- 🚀 I’m currently working on **ZING**
-
-- 👩🏼‍💻 Launching 6 startups in 6 months. Follow the journey: www.em-powered.xyz
+- 🚀 I’m currently working on **Fara Way**
 
 - 📪 Get in touch! **emilie.lockey@gmail.com**
 
